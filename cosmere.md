@@ -50,7 +50,7 @@ I've referenced this above, but just for clarity sake I will break down the exac
 + **The Physical Manifestation** (please give me a better name for this, I'm too dumb to come up with something)
   - This is the physical manifestation of the power
   - Represented in the physical realm
-  - The Physical Manifestation is actually two components (the Bread and Wine of Transubstantiation):
+  - The Physical Manifestation actually (at least) two subcomponents (the Bread and Wine of Transubstantiation):
     * The Body - this is what we normally call the God metal (which has, not coincidentally, also been referred to as a God's body in previous books)
     * The Blood - this is the well of power
   - This is Christ, yo.
