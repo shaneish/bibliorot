@@ -22,7 +22,7 @@ It was said that Mishram's power was a direct threat to Odium itself, but how co
 
 No no no, Mishram didn't drink of Odium's pool, *Mishram drank of the ultimate power of the Cosmere -- the well of power associated directly with Creation and Adonalsium.*  The well of power that came from the Original creator of Roshar, the well of power from which both Honor and Odium derive.
 
-Also, ask yourself why *Ado*nalsium and Ba-*Ado*-Mishram both have "Ado" in their name?  That's not a coincidence, that's a hint -- and Brandon loves that ish too.  He's literally sticking your face in it some you can come back and smack yourself for not seeing it.
+Also, ask yourself why *Ado*nalsium and Ba-*Ado*-Mishram both have "Ado" in their name?  That's not a coincidence, that's a hint -- and Brandon loves that ish.  He's sticking your face in it some you can come back and smack yourself for not seeing it.
 
 ### Where the blood at tho
 My guess is that Creation's well of power is hidden under the Shattered Plains.  When Honor and Odium clashed, the shattered plains split open and Honor saw:
