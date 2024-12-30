@@ -1,5 +1,3 @@
-So, [this thread](https://www.reddit.com/r/Cosmere/comments/1hp0g8r/spoilers_location_speculation_potential/) made me realize I had a number of theories I wanted to talk about related to the power of "Adonalsium" himself.  Well, not Ado directly because I think Adols***ium*** is but one of two halves of the physical representation (in this case the God metal) of a higher God -- we'll get to that.
-
 #### TL;DR
 So, the **TL;DR** of it is that I think 1) Adonalsium is not the God itself, 2) that the God associated with Adonalsium has it's powers hidden under the Shattered Plains, and that 3) that is the pool of which Mishram drank.  I'll also throw in a quick few hints about how **all** of the aspects of the gods (vessel, shard, metal/well of power) we see in the Cosmere map directly back to the Christian God (via the Trinity and transubstantiation) -- but I won't go into too many details, I just think it's cool and painfully obvious once you spot it.
 
