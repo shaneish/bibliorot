@@ -1,5 +1,5 @@
 #### TL;DR
-So, the **TL;DR** of it is that I think 1) Adonalsium is not the God itself, 2) that the God associated with Adonalsium has it's powers hidden under the Shattered Plains, and that 3) that is the pool of which Mishram drank.  I'll also throw in a quick few hints about how **all** of the aspects of the gods (vessel, shard, metal/well of power) we see in the Cosmere map directly back to the Christian God (via the Trinity and transubstantiation) -- but I won't go into too many details, I just think it's cool and painfully obvious once you spot it.
+So, the **TL;DR** of it is that I think 1) Adonalsium is not the God itself, 2) that the God associated with Adonalsium has it's powers hidden under the Shattered Plains, and that 3) that is the pool of which Mishram drank.  I'll also throw info about how **all** of the aspects of the gods (vessel, shard, metal/well of power) we see in the Cosmere map directly back to the Christian God (via the Trinity and transubstantiation) -- but I won't go into too many details, I just think it's cool and painfully obvious once you spot it.  There are *a lot* of Christian undertones and parallels in this story and I think it really helps to understand what they are.
 
 There will be a postscript with wild speculations about the **Dawn**, from which the Dawnshards split from -- and where my theorizing is prolly off a bit.  Needless to say, the Dawnsingers prolly are called Dawnsingers because they were created to Herald in the Dawn of a new era in which the power of the One God had been split into 16.  This also has Christian undertones, which we'll get to.
 
@@ -71,6 +71,4 @@ My big question here is *what* from the biblical record do the Dawnshards corres
 I dunno bro.  I'm still trying figure out their place in this.  The one thing I will say, though, is that given the fact that the Iriali where on the complete Aether-messed planet of Lumar (which we know from Tress) during their journey makes me think the Aethers have a hand to play here too.  Maybe they're the Pagan Gods that get beat off by Creation in the end, I dunno.  They do say they were here first.
 
 #### Final Thoughts
-Adonalsium's shattering mirrors the crucifixion of Jesus and when Adonalsium finally returns it will usher in the end of days and the dead will rise from the Beyond -- this is why Hoid is so busy interfering, God stole someone he loves and he wants to bring them back from the dead (we hear this directly from Frost in The Traveller).
-
-Mishram is the first Acolyte of Creation.
+Adonalsium's shattering mirrors the crucifixion of Jesus and when Adonalsium finally returns it will usher in the end of days and the dead will rise from the Beyond -- this is why Hoid is so busy interfering, God stole someone he loves and he wants to bring them back from the dead (we hear this directly from Frost in The Traveler).
