@@ -1,7 +1,7 @@
 # Whose Blood did Mishram Drink?
 ### Adonalsium, the Shattered Plains, Trinitarian Subtext, and Hoid's Plot to Raise the Dead
 
-#### TL;DR
+### TL;DR
 So, the **TL;DR** of it is that I think 1) Adonalsium was not *the* God itself, but a component, 2) that the God associated with Adonalsium has it's powers hidden under the Shattered Plains, and that 3) that is the pool of which Mishram drank and why she can threaten Odium himself.  I'll also throw info about how **all** of the aspects of the gods (vessel, shard, metal/well of power) we see in the Cosmere map directly back to the Christian God (via the Trinity and transubstantiation) -- but I won't go into too many details, I just think it's cool and painfully obvious once you spot it.
 
 There will be a postscript with wild speculations about the **Dawn**, from which the Dawnshards come -- and where my theorizing is prolly off a bit.  Needless to say, the Dawnsingers might be called Dawnsingers because they were created to Herald in the Dawn of a new era of the Cosmere.  This also has Christian undertones, which we'll get to.
@@ -10,12 +10,12 @@ I'm not overstating when I say that, in my reading, everything, from the structu
 
 I'm not Mormon so I can't pick out those details, but I would absolutely *love* if someone who is Mormon can give me their read on any Mormon-specific subtext I'm missing here.
 
-#### Structural notes
+### Structural notes
 I'll start with 3) and work backwards, as 2) and 3) are more directly related to WaT and less speculative than 1), but from here on out I will refer to the singular God of the Cosmere (the one associated with Adonalsium and, arguably, the one Dalinar and Vo \[the Austre guy from Warbreaker\] both interacted with) as "Creation" just to reduce ambiguity between Adonalsium (the God metal/body) and Creation (the power/Shard) going forwards.
 
 Also, presumably the vessel is named Adonai (you know, the Hebrew word for "Lord" that Jews use for God), but that's not relevant here.  This combination is what I think the "Seventeenth Shard" that Frost's organization calls itself is referring to -- the original One God of Creation, which Frost believes will eventually come back if the current Shards are left alone to experience life on their own.
 
-#### Mishram drank the blood of Christ (not Odium) (slurp slurp)
+### Mishram drank the blood of Christ (not Odium) (slurp slurp)
 We all know Mishram drank from *a* well of power and we're *led to believe* it was Odium's well -- but, how would drinking Odium's power give Mishram power over the sapiant Spren?  We know those are of Honor alone (well, one or two also of Cultivation).  Mishram's imprisoment made deadeye spren, but Odium only has power over **Unmade** spren (which is why they're called Unmade, Odium jacked 'em up after he showed up from Ashyn).  However, Mishram could also grant Singers forms of power associated with Odium.  How could Mishram gain a hint of the power of both Honor and Odium?
 
 It was said that Mishram's power was a direct threat to Odium itself, but how could that be if Mishram drank only of Odium's power?  Nowhere else in the Cosmere do we see people able to threaten the Shards themselves with a little bit of their own power -- we've seem *many* instances in the Cosmere of individuals taking and using from various wells of power and they never once became a rival to a god.  Odium's power thirsts after Mishram -- and we are led to believe it's due to her nature, but we also know that Mishram was actually very honorable and willing to set aside her passions and make a deal with the humans.  Not very odiuous to me.  Rather, I think Odium's power thirsts after Mishram for the same reason the Dawnshards are uncontrollably drawn to each other -- they are of the same power and they want to be one.
@@ -24,7 +24,7 @@ No no no, Mishram didn't drink of Odium's pool, *Mishram drank of the ultimate p
 
 Also, ask yourself why *Ado*nalsium and Ba-*Ado*-Mishram both have "Ado" in their name?  That's not a coincidence, that's a hint -- and Brandon loves that ish too.  He's literally sticking your face in it some you can come back and smack yourself for not seeing it.
 
-#### Where the blood at tho
+### Where the blood at tho
 My guess is that Creation's well of power is hidden under the Shattered Plains.  When Honor and Odium clashed, the shattered plains split open and Honor saw:
 > I saw people there -- new ones, watchers, who had hidden from me.
 Those pieces of the sky...they sheltered from the eyes of God?  That was not aluminum.  It was something greater.  Something...that responded to our clash, the ground liquefying in a pattern, dictated by the ton and the strange nature of the place.
@@ -35,7 +35,7 @@ I think you all see where I'm going with this, but -- to me, at least -- it seem
 
 We also know that the moon that crashed into the Shattered Plains crashed there before Honor and Cultivation showed up to Roshar, so if I was a betting man I'd guess that the moon shattered the plains when the 16 shattered Adonalsium (see the poetic nature of that -- Brandon loves ish like that too).
 
-#### Adonalsium ain't a God, bruh -- and the shattering of Adonalsium was just big boy version of Wax shattering Harmonium
+### Adonalsium ain't a God, bruh -- and the shattering of Adonalsium was just big boy version of Wax shattering Harmonium
 I think it's clear from the name that Adonalsium is a "God metal" and not a God, let's be real here.  When I first got into the Cosmere, I thought it was so weird that Brandon would take an obvious reference to the biblical God and slap "-sium", which just seems tacky to me -- but now, I don't think that's the case.  It's a misdirection, there is an actual God/Shard held by a being named Adonai and Adonalsium is no more the God than Atium was Ruin.  I think this is fairly well establish in Cosmere lore by this point, so I won't harp on it.
 
 I've referenced this above, but just for clarity sake I will break down the exact relationship between the Trinity and the God/gods of the Cosmere.  Each God/god has three components that map to the Trinity and one subcomponent that maps to Christ.  Additionally, these three Triune components map to the three realms of the Cosmere:
@@ -62,7 +62,7 @@ Wit is very clear in WaT that the Shards aren't actually Gods, they are gods -- 
 
 However, that means that the Vessel, the Shard, and the Well of Power of Creation are still out there influencing the Cosmere (shocking, I know, who would've guessed that Dalinar wasn't crazy when he was talking to *the* monotheistic God in his visions).
 
-#### Random Dawnshard ish, I dunno
+### Random Dawnshard ish, I dunno
 We still don't know much about the Dawnshards, but we know this: the Dawnshards were obviously split from a larger whole and wants to combine back into it's original self.  We saw that in WaT with Rhys and Wit, they were uncontrollably drawn to each other.
 
 The fact that the Dawnshards came from (waves hands wildly) *something* called the Dawn, how the absolute eff does that relate to the Dawnsingers?  And also, how does it relate to Creation itself?
@@ -79,10 +79,10 @@ This story really seems to parallel the mythology of the Iriali -- which makes i
 
 My big question here is *what* from the biblical record do the Dawnshards correspond to?  I'm absolutely certain that they correspond to something, but I'm not about to reread the entire New Testament to try to find the relevant "thing" that is split in four parts.
 
-#### The Aethers
+### The Aethers
 I dunno bro.  I'm still trying figure out their place in this.  The one thing I will say, though, is that given the fact that the Iriali where on the Aether-fricked planet of Lumar (Tress' world) during their journey makes me think the Aethers have a hand to play here too.  Maybe they're the Pagan Gods that clash with Creation in all this, I dunno.  They do say they were here first.
 
-#### Final Thoughts
+### Final Thoughts
 Adonalsium's shattering mirrors the crucifixion of Jesus and when Adonalsium finally returns it will usher in the end of days and the dead will rise from the Beyond -- this is why Hoid is so busy interfering, God stole someone he loves and he wants to bring them back from the dead (we hear this directly from Frost in The Traveler).
 
 (also, I lied, I'mma boutta reread the frick out of the bible to try to figure this out lmao)
