@@ -15,9 +15,9 @@ I'll start with 3) and work backwards, as 2) and 3) are more directly related to
 
 Also, presumably the vessel is named Adonai (you know, the Hebrew word for "Lord" that Jews use for God), but that's not relevant here.  This combination is what I think the "Seventeenth Shard" that Frost's organization calls itself is referring to -- the original One God of Creation, which Frost believes will eventually come back if the current Shards are left alone to experience life on their own.
 
-\[note: **I don't believe the God Beyond is the Shard Creation.  This may seem slightly heretical to traditional Trinitarians, but it's very well in line with Universalism.  Would be curious to hear if this is Mormon-ish or not, but my personal read here is that there's a bit of meta-monotheism happening in the Cosmere -- which is where I think the aethers can come into play as well.
+\[note: *I don't believe the God Beyond is the Shard Creation.  This may seem slightly heretical to traditional Trinitarians, but it's very well in line with Universalism.  Would be curious to hear if this is Mormon-ish or not, but my personal read here is that there's a bit of meta-monotheism happening in the Cosmere -- which is where I think the aethers can come into play as well.*
 
-In a way, I find this quite beautiful.  The mythology/religions of the Cosmere mirror our own -- and ultimately leave the same questions about the true nature of God and the afterlife.**\]
+*In a way, I find this quite beautiful.  The mythology/religions of the Cosmere mirror our own -- and ultimately leave the same questions about the true nature of God and the afterlife.*\]
 
 ### Mishram drank the blood of Christ (not Odium) (slurp slurp)
 We all know Mishram drank from *a* well of power and we're *led to believe* it was Odium's well -- but, how would drinking Odium's power give Mishram power over the sapiant Spren?  We know those are of Honor alone (well, one or two also of Cultivation).  Mishram's imprisoment made deadeye spren, but Odium only has power over **Unmade** spren (which is why they're called Unmade, Odium jacked 'em up after he showed up from Ashyn).  However, Mishram could also grant Singers forms of power associated with Odium.  How could Mishram gain a hint of the power of both Honor and Odium?
