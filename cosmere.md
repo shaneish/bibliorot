@@ -15,6 +15,8 @@ I'll start with 3) and work backwards, as 2) and 3) are more directly related to
 
 Also, presumably the vessel is named Adonai (you know, the Hebrew word for "Lord" that Jews use for God), but that's not relevant here.  This combination is what I think the "Seventeenth Shard" that Frost's organization calls itself is referring to -- the original One God of Creation, which Frost believes will eventually come back if the current Shards are left alone to experience life on their own.
 
+\[note: I don't believe the God Beyond is the Shard Creation.  This may seem slightly heretical to traditional Trinitarians, but it's very well in line with Universalism.  Would be curious to hear if this is Mormon-ish or not, but my personal read here is that there's a bit of meta-monotheism happening in the Cosmere -- which is where I think the aethers can come into play as well.\]
+
 ### Mishram drank the blood of Christ (not Odium) (slurp slurp)
 We all know Mishram drank from *a* well of power and we're *led to believe* it was Odium's well -- but, how would drinking Odium's power give Mishram power over the sapiant Spren?  We know those are of Honor alone (well, one or two also of Cultivation).  Mishram's imprisoment made deadeye spren, but Odium only has power over **Unmade** spren (which is why they're called Unmade, Odium jacked 'em up after he showed up from Ashyn).  However, Mishram could also grant Singers forms of power associated with Odium.  How could Mishram gain a hint of the power of both Honor and Odium?
 
@@ -80,9 +82,11 @@ This story really seems to parallel the mythology of the Iriali -- which makes i
 My big question here is *what* from the biblical record do the Dawnshards correspond to?  I'm absolutely certain that they correspond to something, but I'm not about to reread the entire New Testament to try to find the relevant "thing" that is split in four parts.
 
 ### The Aethers
-I dunno bro.  I'm still trying figure out their place in this.  The one thing I will say, though, is that given the fact that the Iriali where on the Aether-fricked planet of Lumar (Tress' world) during their journey makes me think the Aethers have a hand to play here too.  Maybe they're the Pagan Gods that clash with Creation in all this, I dunno.  They do say they were here first.
+I dunno bro.  I'm still trying figure out their place in this.  Maybe they're the Pagan Gods that clash with Creation in all this, I dunno.  They do say they were here first.  Particularly, in a Universalist world where all religions are valid pathways to the True God, I can see a set of parallel Pagan-ish dieties besides Shards that are equally as valid in the Cosmere.
+
+The one thing I will say, though, is that given the fact that the Iriali where on the Aether-fricked planet of Lumar (Tress' world) during their journey makes me think the Aethers have a hand to play here too.
 
 ### Final Thoughts
-Adonalsium's shattering mirrors the crucifixion of Jesus and when Adonalsium finally returns it will usher in the end of days and the dead will rise from the Beyond -- this is why Hoid is so busy interfering, God stole someone he loves and he wants to bring them back from the dead (we hear this directly from Frost in The Traveler).
+Playing along, I'd guess there's in-Cosmere lore among Yolen's that when Adonalsium finally returns it will usher in the end of days and the dead will rise from the Beyond -- this is why Hoid is so busy interfering, God stole someone he loves and he wants to bring them back from the dead (we hear this directly from Frost in The Traveler).  This mirrors the crucifixion of Jesus and the Revelations -- however, I don't think we will ever find out how it truly ends.  I said before, I don't think Creation is the God Beyond, so I fear we may never truly hit an endpoint that Hoid is satisfied with.
 
 (also, I lied, I'mma boutta reread the frick out of the bible to try to figure this out lmao)
