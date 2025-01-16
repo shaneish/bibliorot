@@ -1,5 +1,8 @@
 # Whose Blood did Mishram Drink?
 ### Adonalsium, the Shattered Plains, Trinitarian Subtext, and Hoid's Plot to Raise the Dead
+~
+note: will be rewritten and slightly reorganized to remove mishram's blood drinking and refocus analysis on the "triune" subtext and not "trinitarian", as it seems that the relationship between vessel, shard, and physical manifestation may instead be more "arianistic" on second thought (both vessel and physical manifestation ultimately subservient to the shard itself).
+~
 
 ### TL;DR
 So, the **TL;DR** of it is that I think 1) Adonalsium was not *the* God itself, but a component, 2) that the God associated with Adonalsium has it's powers hidden under the Shattered Plains, and that 3) that is the pool of which Mishram drank and why she can threaten Odium himself.  I'll also throw info about how **all** of the aspects of the gods (vessel, shard, metal/well of power) we see in the Cosmere map directly back to the Christian God (via the Trinity and transubstantiation) -- but I won't go into too many details, I just think it's cool and painfully obvious once you spot it.
