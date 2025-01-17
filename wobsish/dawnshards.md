@@ -1,5 +1,8 @@
 # dawnshard stuff
 
+### 0. misc
+- [one dawnshard is different from the rest](https://wob.coppermind.net/events/226/#e4824)
+
 ### 1. zellion has a dawnshard (no, not that dawnshard)
 - [does sigzil now hold a different dawnshard?](https://wob.coppermind.net/adv_search/?query=hoid+intent)
   + did the historical zellion leave the people of canticle with a dawnshard after their migration?  was the purpose of the migration to move them to a system where the dawnshard could be kept safe?
