@@ -10,11 +10,11 @@ This small doc was inspired by one beautiful yet tragic moment at the end of Win
 
 ---
 
-Dalinar & Navani were brought together by fate itself.  Gavilar Kholin, the greatest (petty) king™, who (abusively) wielded both Dalinar & Navani as tools to build his Tiny Empire™ in Kholinar -- Dalinar ran his Army and Navani Ran his Kingdom.  Navani & Dalinar, the Pen and Sword of Kholinar<sup>[1]</sup>.
+Dalinar & Navani were brought together by fate itself.  Gavilar Kholin wielded both Dalinar & Navani as tools to build his Tiny Empire™ in Kholinar -- Dalinar ran his Army and Navani Ran his Kingdom.  Navani & Dalinar, the Pen and Sword of Kholinar<sup>[1]</sup>.
 
-Dalinar & Navani, brought together the first time by shared abuse and misplaced love.  Gavilar was their first Convergence, but a crossing is only a crossing under the Guiding Hands™ of Divergence.
+Dalinar won his fight by losing it -- sacrificing himself and the Shard of Honor to save the Cosmere from Odium's wrath.  Navani's plunge to save Urithiru happened almost immediately after Dalinar's "death" -- and continues beyond the story's end.
 
-The second Convergence after Gavilar's death was under the influence of Odium's return and Dalinar's visions.  With their marriage.
+*Brightness Navani, one of Roshar's greatest antifabrians, now nothing more than a Spren trapped in a (giant) gemstone -- the antifabrian becomes the fabrial*
 
 #### Notes
 + \[1] They say the Pen is mightier than the Sword, which makes me think Navani will play a much bigger role in the 2nd arc of the Stormlight Archives.

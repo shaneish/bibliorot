@@ -17,9 +17,10 @@
 - [possible for four shards that share a common intent in line with one of the primal commands (dawnshards) to recombine into a megashard without issues taking action like sazed](https://wob.coppermind.net/events/517/#e16197)
 - [the magic system of the dawnshards predate the magic of the shards](https://wob.coppermind.net/events/176/#e8498)
   + this is particularly interesting, as the shards and their powers descend directly from the power of adonalsium -- so the dawnshards being beyond the magic of adonalsium suggests that adonalsium wasn't the original god.  this is good circumstantial evidence that adonalsium is an awakened god metal and not a deity.
+- [are there four investiture attracting planets in the cosmere?  one for each dawnshart?]
 
 ### 1. zellion has a dawnshard (no, not that dawnshard)
-- [does sigzil now hold a different dawnshard?](https://wob.coppermind.net/adv_search/?query=hoid+intent)
+- [does sigzil now hold a different dawnshard?](https://wob.coppermind.net/events/494/#e15578)
   + did the historical zellion leave the people of canticle with a dawnshard after their migration?  was the purpose of the migration to move them to a system where the dawnshard could be kept safe?
   + did they transfer this dawnshard to sigzil along with the title of "zellion"?
   + "rebekke" is a weird name for a canticle-ese -- especially compared to the other names which seem more like descriptions.
