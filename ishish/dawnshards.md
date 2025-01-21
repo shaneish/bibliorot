@@ -18,6 +18,7 @@
 - [the magic system of the dawnshards predate the magic of the shards](https://wob.coppermind.net/events/176/#e8498)
   + this is particularly interesting, as the shards and their powers descend directly from the power of adonalsium -- so the dawnshards being beyond the magic of adonalsium suggests that adonalsium wasn't the original god.  this is good circumstantial evidence that adonalsium is an awakened god metal and not a deity.
 - [are there four investiture attracting planets in the cosmere?  one for each dawnshart?]
+- [the grand apparatus and "doing adonalsium's work"](https://wob.coppermind.net/events/522/#e16290)
 
 ### 1. zellion has a dawnshard (no, not that dawnshard)
 - [does sigzil now hold a different dawnshard?](https://wob.coppermind.net/events/494/#e15578)

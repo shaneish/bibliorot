@@ -38,7 +38,7 @@ def convert_rows(l: list[dict], entries_page: str = "0") -> list[tuple]:
 # both json and sqlite output are used because json is easier to use
 # in the near term, but ultimately i'd like to build an embedding index
 # over the wobs for better search -- and that can be done with sqlite extensions
-con = sqlite3.connect("references/wobs/wobs.db")
+con = sqlite3.connect("wobs/wobs.db")
 cur = con.cursor()
 if (
     cur.execute(
@@ -88,5 +88,5 @@ while r.json().get("results", []):
         time.sleep(2)  # hopefully avoid api limits lmao
 
 # dump into json file as well
-with open("references/wobs/wobs.json", "w") as f:
+with open("wobs/wobs.json", "w") as f:
     json.dump(json_entries, f, indent=4)
