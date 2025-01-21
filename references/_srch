@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rg -i -l "$@" cosmere-books wobs/wobs-human_readable.txt | xargs nvim -c "/$@"
