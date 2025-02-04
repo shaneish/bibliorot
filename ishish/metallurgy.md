@@ -1,11 +1,11 @@
 # on the autonomous origins of hemalurgy
 ### introduction
-When reading through both Mistborn eras, there were a number of "inconsistencies" or facts that just didn't vibe with me.  Things that made me stop and think, "eh, that doesn't seem right" but weren't wildly off enough to make me sit there and really think about what was happening.  Questions like:
+When reading through both Mistborn eras, there were a number of "inconsistencies" or facts that just didn't vibe with me.  Things that made me stop and think, "eh, that doesn't seem right" but weren't wildly off enough to make me sit and really question what was happening.  Questions like:
 - why does Scadrial have two gods and three magic systems?
 - why did Sazed have a close enough connection to Ruin to ascend with the Shard?
 - why was Sazed so opposed and disgusted by hemalurgy if it was a part of his power?
 - why did hemalurgic spikes repel the mists?
-- why do we see hints of both allomancy and feruchemy prior to the Lord Rulers ascension but not hemalurgy?
+- why do we see hints of both allomancy and feruchemy prior to the Lord Ruler's ascension but not hemalurgy?
 - why did we see manifestations of feruchemy solely in the area of ancient Terris?
 - why is hemalurgy the only magic system we saw the Set make use of?
 - how were the Set able to learn the secrets of hemalurgic creatures so quickly when it took a literal ascension previously to figure it out?
@@ -16,17 +16,17 @@ After contemplating these questions pretty heavily, a unifying answer seems pret
 We know that Autonomy had been on Scadrial pre-Lord Ruler from Sazed's religious histories of ancient Trellagism -- so the right people were in the right place already -- and I hope to explain why it matches Autonomy more than Ruin or Preservation.  I also hope to show some additional connections between hemalurgy and other magic systems suspected of being of Autonomy and I will attempt to provide some circumstantial evidence that hints Autonomy may be establishing various magic systems across the Cosmere by corrupting the local magic systems.
 
 ### why hemalurgy
-When we read through Mistborn, we're led to believe that hemalurgy is Ruin's magic system because he makes the most use of it.  However, if you think about it, hemalurgy really fits Autonomy's agenda was more than Ruin.  Autonomy is obsessed with pitting people against each other to reward the victor -- and this is exactly what hemalurgy does.  With hemalurgy, you can have any magic system you want, so long as you can take it for yourself.  It allows it's users to circumvent the limitations of other magic systems if you're bold and daring enough to take it for yourself.
+When we read through Mistborn, we're led to believe that hemalurgy is Ruin's magic system because he makes the most use of it.  However, if you think about it, hemalurgy really fits Autonomy's agenda way more than Ruin.  Autonomy is obsessed with pitting people against each other to reward the victor -- and this is exactly what hemalurgy does.  With hemalurgy, you can have any magic system you want, so long as you can take it for yourself.  It allows it's users to circumvent the limitations of other magic systems if you're bold and daring enough to take it for yourself.
 
 ### but what about ruin speaking in their minds?
-We also see that after moash is spiked, Odium (a known ally of Autonomy btw) is able to communicate with him via the spike -- which is pretty solid evidence to me that hemalurgic creatures are actually open to communication/influence from any Shard.  Any Shard besides Autonomy, that is, because Autonomy somehow ended up with a god metal that allows hemalurgic creatures to hide from other Shards.  Hhmmmmmmm...
+We see that after Moash is spiked, Odium (a suspected ally of Autonomy btw) is able to communicate with him via the spike -- which is pretty solid evidence to me that hemalurgic creatures are actually open to communication/influence from any Shard.  Any Shard besides Autonomy, that is, because Autonomy somehow ended up with a god metal that allows hemalurgic creatures to hide from other Shards.  Hhmmmmmmm...
 
 My current belief is that hemalurgy wasn't "of Ruin," but that Ruin was simply making use of one of the only avenues of influence he had while his power was being hidden from him.  So if hemalurgy isn't Ruin's magic system, what is?  Well, feruchemy ofc.
 
 Btw, there is actual textual evidence that would suggest any sufficiently invested being could influence hemalurgic creatures -- the fact that strong enough allomancers can do it.  We see that the Lord Ruler, Elend, and Vin (with a bit of duralumin) are all able to control hemalurgic creatures -- and not only are they not Ruin, they aren't even Shards.  They just have access to a lot of investiture.  Now, if a simple allomancer like Vin or Elend could literally take control of hemalurgic creatures like koloss and kandra, a freaking Shard like Ruin or Harmony should be able to as well.
 
 ### ruin and feruchemy
-Did you ever wonder why the ancient Terris were the only people to ever attain the powers of feruchemy?  Well, I did, and I think it's related to Ruin being locked up in the well of ascension located in acient Terris.  The Terris are the only peoples to develop feruchemy because they were the only ones close enough to Ruin for him to influence while he was locked in his prison -- and we know he was influencing them, as the Terris religion was the one he manipulated to eventually be released from his cell.
+Did you ever wonder why the ancient Terris were the only people to ever attain the powers of feruchemy?  Well, I did, and I think it's related to Ruin being locked up in the well of ascension located in ancient Terris.  The Terris are the only peoples to develop feruchemy because they were the only ones close enough to Ruin for him to influence while he was locked in his prison -- and we know he was influencing them, as the Terris religion was the one he manipulated to eventually be released from his cell.
 
 Another thing that always bothered me was how Sazed was connected enough to Ruin to ascend to his Shard.  We see that the Shards had developed to a point that a person needed to have a connection to the power to ascend to it, but Sazed had always seemed like a not-very-ruinuous dude to me.  We're led to believe that his months of moping about religions not being true after tindwyl died is the connection that allowed him to ascend to Ruin, but i've always found that unsatisfying because even that doesn't seem really ruinuous to me.
 
