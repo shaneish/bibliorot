@@ -25,13 +25,12 @@ My current belief is that hemalurgy wasn't "of Ruin," but that Ruin was simply m
 
 Btw, there is actual textual evidence that would suggest any sufficiently invested being could influence hemalurgic creatures -- the fact that strong enough allomancers can do it.  We see that the Lord Ruler, Elend, and Vin (with a bit of duralumin) are all able to control hemalurgic creatures -- and not only are they not Ruin, they aren't even Shards.  They just have access to a lot of investiture.  Now, if a simple allomancer like Vin or Elend could literally take control of hemalurgic creatures like koloss and kandra, a freaking Shard like Ruin or Harmony should be able to as well.
 
-## Ruin and feruchemy
+## ruin and feruchemy
 Did you ever wonder why the ancient terris were the only people to ever attain the powers of feruchemy?  Well, I did, and I think it's related to Ruin being locked up in the well of ascension located in acient terris.  The terris are the only peoples to develop feruchemy because they were the only ones close enough to Ruin for him to influence while he was locked in his prison -- and we know he was influencing them, as the terris religion was the one he manipulated to eventually be released from his cell.
 
 Another thing that always bothered me was how Sazed was connected enough to Ruin to ascend to his Shard.  We see that the Shards had developed to a point that a person needed to have a connection to the power to ascend to it, but Sazed had always seemed like a not-very-ruinuous dude to me.  We're led to believe that his months of moping about religions not being true after tindwyl died is the connection that allowed him to ascend to Ruin, but i've always found that unsatisfying because even that doesn't seem really ruinuous to me.
 
 However, if feruchemy is the magic system *of* Ruin, then Sazed was born with a connection to Ruin.  Sazed is a wielder of his magic system.  The twindyl bit was just a bit of misdirection from the king of misdirection, Brandon.
-
 
 (I think that there's some connection here between Ruin's inability to see metal and feruchemy, but I'm not quite sure if it's fully fleshed out)
 
@@ -52,7 +51,7 @@ Like, seriously?  All they had was hemalurgy -- and they had a frickton of hemal
 Sazed is disgusted by hemalurgy and puts great effort into suppressing knowledge of it, but somehow that's the exact magic system the Set start to exploit in their efforts to control the Elendel basin.  First of all, I don't see why Sazed would try so hard to suppress his magic system.  Now, if he knows it's the magic system of a competing Shard trying to step on his turf?  Well that makes total sense, then.
 
 ## more strenuous connections to the wider Cosmere
-Now this is where is gets a little bit more speculative, because it's really based on [a WoB where brandon seemed to confirm a connection between the fjordel and Shu-Dereth on Sel and Autonomy](https://wob.coppermind.net/events/509-youtube-spoiler-stream-5/#e15951).  If we take this WoB for what it seems like, we're led to believe that the Shu-Dereth and Jaddeth have some connection to Autonomy.  This kinda makes sense with what we've seen on Scadrial, because just like ancient Trellagism and and Southern Scadrians, the religious mythology is based around two competing "brothers" with one brother trying to outshine the other (in the case of Shu-Dereth, that brother is Shu-Keseg).
+Now this is where is gets a little bit more speculative, because it's really based on [a WoB where brandon seemed to confirm a connection between the Fjordel and Shu-Dereth on Sel and Autonomy](https://wob.coppermind.net/events/509-youtube-spoiler-stream-5/#e15951).  If we take this WoB for what it seems like, we're led to believe that the Shu-Dereth and Jaddeth have some connection to Autonomy.  This kinda makes sense with what we've seen on Scadrial, because just like ancient Trellagism and and Southern Scadrians, the religious mythology is based around two competing "brothers" with one brother trying to outshine the other (in the case of Shu-Dereth, that brother is Shu-Keseg).
 
 Now, what we also see in Elantris is that the Shu-Dereth have managed to discover a new magic system unrelated to other known magic systems on Sel -- and that magic system physically distorts it's wielders and is powered by human sacrifice.  Now, if I were a betting man, that certainly sounds similar to hemalurgy to me.  Could the magic of Derethi priests be just another corruption by Autonomy of a local magic system on Sel?  I dunno, but if it looks like a duck and quacks like a duck...
 
