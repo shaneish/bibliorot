@@ -21,7 +21,7 @@ When we read through mistborn, we're led to believe that hemalurgy is Ruin's mag
 ## but what about Ruin speaking in their minds
 We also see that after moash is spiked, Odium (a known ally of Autonomy btw) is able to communicate with him via the spike -- which is pretty solid evidence to me that hemalurgic creatures are actually open to communication/influence from any Shard.  Any Shard besides Autonomy, that is, because Autonomy somehow ended up with a god metal that allows hemalurgic creatures to hide from other Shards.  Hhmmmmmmm...
 
-My current belief is that hemalurgy wasn't "of Ruin," but that Ruin was simply making use of one of the only avenues of influence he had while his power was being hidden from him.  so if hemalurgy isn't Ruin's magic system, what is?  Well, feruchemy ofc.
+My current belief is that hemalurgy wasn't "of Ruin," but that Ruin was simply making use of one of the only avenues of influence he had while his power was being hidden from him.  So if hemalurgy isn't Ruin's magic system, what is?  Well, feruchemy ofc.
 
 Btw, there is actual textual evidence that would suggest any sufficiently invested being could influence hemalurgic creatures -- the fact that strong enough allomancers can do it.  We see that the Lord Ruler, elend, and vin (with a bit of duralumin) are all able to control hemalurgic creatures -- and not only are they not Ruin, they aren't even Shards.  They just have access to a lot of investiture.  Now, if a simple allomancer like vin or elend could literally take control of hemalurgic creatures like koloss and kandra, a freaking Shard like Ruin or Harmony should be able to as well.
 
