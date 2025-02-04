@@ -1,4 +1,4 @@
-# on the origins of metalurgy
+# on the autonomous origins of hemalurgy
 ## introduction
 When reading through both mistborn eras, there were a number of "inconsistencies" or facts that just didn't vibe with me.  Things that made me stop and think, "eh, that doesn't seem right" but weren't wildly off enough to make me sit there and really think about what was happening.  Questions like:
 - why does Scadrial have two gods and three magic systems?
