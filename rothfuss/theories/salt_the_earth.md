@@ -91,8 +91,8 @@ felurian swears by salt:
 > She didn't look away from me as she spoke. And though I hadn't looked away or seen them change, her eyes were no longer soft with adoration. They were dark as storm clouds, hard as ice.
 >
 > "I do not jest," she said. "I swear this by my flower and the ever-moving moon. **I swear it by salt** and stone and sky. I swear this singing and laughing, by the sound of my own name." She kissed me again, pressing her lips to mine tenderly. "I will do this thing."
-
-And that was the end of it. I might be a fool, but I am not that much of
+>
+> And that was the end of it. I might be a fool, but I am not that much of
 a fool.
 ruh salt (this is a common idiom though...):
 > **No trouper worth his salt** could fail to recognize that.
