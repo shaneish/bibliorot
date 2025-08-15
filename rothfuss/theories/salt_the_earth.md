@@ -18,7 +18,7 @@ why does the first king of vintas name start with "fey"?
 > "Posthumously? Feyda Calanthis. Otherwise it would be his brother, Jarvis."
 
 ## never seen the king of vint
-sooooo...did the people at the farm manage to bring the old barrow king and his draugr back from the dead?  is that why the chandrian where -- to kill them?  "i've never seen the king of vint either"
+sooooo...did the people at the farm manage to bring the old barrow king and his draugr back from the dead?  is that why the chandrian were there -- to kill the draugars?  "i've never seen the king of vint either"
 > She looked around, the bruise on her temple a sharp contrast against her pale skin. "I think when I'm done looking for my patron to be, I'm going to wash my hands of this place and never look back."
 >
 > "That's not an answer," I said. "What do you think happened?"
