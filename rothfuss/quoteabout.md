@@ -1,0 +1,7 @@
++ "The Edema Ruh know all the stories in the world, and I am Edema down to the center of my bones." - Kvothe
++ "Iax spoke to the Cthaeh before he stole the moon, and that sparked the entire creation war." - Bast (interestingly, my digital copy says "jax" here instead of "iax"; i've corrected it to match the text of my physical copy of *wise man's fear*)
++ "Death itself is an open doorway to my power." - Lane
++ "My father and I would chain you to a post like a rabid dog." - Ambrose to Kvothe, this sounds eerily reminiscent of Tehlu chaining Encanis to the iron wheel...
++ "I'm not as young as I look, sir. I know it. I just wish other people knew it, too." - Kvothe to the Chancellor.  Another reference to Kvothe being older than he looks?  Similar to a reborn god like Tehlu as Menda?
++ "There was no Kvothe, only the confusion, the anger, and the numbness wrapping them. I was like a sparrow in a storm, unable to find a safe branch to cling to. Unable to control the tumbling motion of my flight." - Kvothe about himself after calling the name of the wind.  The last sentence almost resembles the tumbling leaf of the Lethani, perhaps it's a suggestion that it is the Lethani which helps us control our hidden mind?
++ "Aerlevsedi" - Elodin telling Kvothe what to say to escape his hidden mind after calling the name of the wind.  Also sounds suspiciously like Aethe, the Adem heroine who helped Raethe discover the key to the Lethani.

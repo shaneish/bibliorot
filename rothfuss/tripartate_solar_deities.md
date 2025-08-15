@@ -1,0 +1,7 @@
+> What bothers me more is that the Sun in Temerant is never talked about. 
+
+Yup, it's a big glaring hole.  From the common mythological tripartate of a moon deity, sun deity, and dawn deity, we see two the moon receive fairly solid representation in Denna, the dawn receive reasonably suggestive representation in Auri, and the sun barely even discussed.  It makes me wonder if Kvothe -- our "bright" "fiery" hero -- is meant to fill that role.  It would certainly explain why Kvothe is so tightly bound to Denna and Auri and his relationship with Denna never goes beyond platonic and protective.
+
+Some little hints here are when Kvothe said he and Denna have always been "slowly circling around each other" and how Kvothe neatly fits a lot of core aspects of popular solar deities (for example, the solar deity Apollo was known as the protector god and a recurring theme in the story is Kvothe's unyielding drive to protect others, Apollo was the god of music and particularly associated with the lyre, Apollo's association with both destruction and redemption, Kvothe's "fiery crown" of hair, and a few stretchier connections such as archery being an aspect of Apollo and Kvothe creating the Bloodless to protect from archery).
+
+The thing that really convinced me though (besides the Luke/Leia dynamic between Kvothe and Denna) is how Auri describes him.  Multiple times she refers to him as a "bright" something, how she calls him a "piece of the sun that never left her" and says he's "rough against the world."
